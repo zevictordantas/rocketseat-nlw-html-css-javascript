@@ -1,0 +1,13 @@
+{
+  "name": "rocketseat-nlw-html-css-javascript",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemoon": "^2.0.4"
+  }
+}
