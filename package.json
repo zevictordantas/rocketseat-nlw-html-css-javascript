@@ -5,9 +5,25 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "nunjucks": "^3.2.2"
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
   },
   "devDependencies": {
     "nodemoon": "^2.0.4"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zevictordantas/rocketseat-nlw-html-css-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zevictordantas/rocketseat-nlw-html-css-javascript/issues"
+  },
+  "homepage": "https://github.com/zevictordantas/rocketseat-nlw-html-css-javascript#readme",
+  "description": ""
 }
